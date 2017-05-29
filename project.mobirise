@@ -133,7 +133,7 @@
             "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3d-city-28-2000x1361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3d-city-2000x754.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,6 +172,12 @@
             ".mbr-section-title, p": {
               "text-align": "right",
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -190,17 +196,17 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/Q5wI95Rjuu0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/K1Vr9DJbEQY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#2cb8ff",
             "showTitle": true,
             "showCaption": true
           },
-          "title": "<br><span style=\"font-weight: normal;\">3DCity.io<br></span><br>",
-          "caption": "<p>A place &nbsp;where we dream big, and help design and the future</p>"
+          "title": "<br>&nbsp;&nbsp;<br><br><br><br><br><br><br><br><br><br><br>",
+          "caption": ""
         },
         {
           "_tags": [
